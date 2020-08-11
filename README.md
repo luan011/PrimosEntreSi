@@ -1,3 +1,5 @@
 # PrimosEntreSi
 
-Complexidade de tempo dos 2 algoritmos é O(n).
+Complexidade de tempo do algoritmo de força bruta é O(n).
+
+Complecidade de tempo do algoritmo de euclides é O(log b).
