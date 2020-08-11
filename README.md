@@ -1,2 +1,3 @@
 # PrimosEntreSi
-Primos Entre Si
+
+Complexidade de tempo dos 2 algoritmos é O(n).
